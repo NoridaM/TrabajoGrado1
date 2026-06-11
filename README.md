@@ -1,1 +1,1 @@
-# TG1-Sistema-de-reconocimiento-de-objetos-en-im-genes.-Caso-particular-detecci-n-de-armas
+# TrabajoGrado1
